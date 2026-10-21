@@ -17,3 +17,5 @@ Educational project demonstrating numerical integration techniques implemented i
 Install dependencies via pip:
 ```bash
 pip install numpy matplotlib scipy
+
+Project Structurenumerical_integration.py — Main Python script containing the algorithms and visualization.Копия_блокнота__Інтегрування_ipynb_.ipynb — Original Jupyter Notebook version.requirements.txt — Project dependencies file.UsageRun the script to execute the calculations, output the results for $\varepsilon = 10^{-4}$, and generate the comparison plot:
